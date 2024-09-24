@@ -26,7 +26,7 @@ If you have any feedback, suggestions, or issues, feel free to reach out:
 
 - **Nishant Chauhan**  
   Email: nishant12200333@gmail.com  
-  LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nishant-chauhan)
+  LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nishant-chauhan-870239234/)
 
 ---
 Thank you for using **FocusedTube**! Stay productive and focused while enjoying your YouTube experience.
