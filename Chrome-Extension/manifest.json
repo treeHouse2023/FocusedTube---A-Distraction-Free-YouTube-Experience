@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Focused YouTube",
+  "version": "1.0",
+  "description": "Limits the number of recommended videos displayed on YouTube to reduce distractions.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icons/icon48.png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
